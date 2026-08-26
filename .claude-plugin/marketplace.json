@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "proof-skills",
+  "version": "1.0.0",
+  "description": "Marketplace hosting the rigorous-proofs plugin.",
+  "owner": { "name": "ictumuk", "email": "bmhieu2k2@gmail.com" },
+  "plugins": [
+    {
+      "name": "rigorous-proofs",
+      "source": "./",
+      "description": "Rigorous, verifiable mathematical proofs via a plan -> prove -> verify -> revise loop.",
+      "category": "productivity",
+      "tags": ["math", "proof", "reasoning"]
+    }
+  ]
+}

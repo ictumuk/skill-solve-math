@@ -1,0 +1,11 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "rigorous-proofs",
+  "version": "0.1.0",
+  "description": "Rigorous, verifiable mathematical proofs via a plan -> prove -> verify -> revise loop.",
+  "author": { "name": "ictumuk", "email": "bmhieu2k2@gmail.com" },
+  "homepage": "https://github.com/ictumuk/skill-solve-math",
+  "repository": "https://github.com/ictumuk/skill-solve-math",
+  "license": "MIT",
+  "keywords": ["math", "proof", "theorem", "verification", "reasoning"]
+}
